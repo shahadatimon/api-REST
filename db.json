@@ -1,0 +1,171 @@
+{
+  "deves": [
+    {
+      "id": 1,
+      "name": "shahadat",
+      "age": "26",
+      "location": "chattagram",
+      "number": "01658444575",
+      "skillId": "7",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvtblG84CVbfw3_AK82bl2P0ZOrz9sAiORWg&usqp=CAU"
+    },
+    {
+      "id": 2,
+      "name": "Brands",
+      "age": "26",
+      "location": "khulna",
+      "number": "01357856487",
+      "skillId": "6",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2VsvjLa6rmgEQm67q2dAuZQOpz_Kwv8JEJg&usqp=CAU"
+    },
+    {
+      "id": 3,
+      "name": "rahi vau",
+      "age": "15",
+      "location": "dhaka",
+      "number": "01357856487",
+      "skillId": "4",
+      "photo": "https://bonsai.digital/wp-content/uploads/2014/06/team-member-02.jpg"
+    }
+  ],
+  "skill": [
+    {
+      "id": 1,
+      "skill": "java developer"
+    },
+    {
+      "id": 2,
+      "skill": "React developer"
+    },
+    {
+      "id": 3,
+      "skill": "Wordpress developer"
+    },
+    {
+      "id": 4,
+      "skill": "Pytion developer"
+    },
+    {
+      "id": 5,
+      "skill": "html developer"
+    },
+    {
+      "id": 6,
+      "skill": "css developer"
+    },
+    {
+      "id": 7,
+      "skill": "Bootstrap developer"
+    },
+    {
+      "id": 8,
+      "skill": "divi developer"
+    },
+    {
+      "id": 9,
+      "skill": "elementor developer"
+    },
+    {
+      "id": 10,
+      "skill": "java developer"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Fasion shoe",
+      "rate": 55,
+      "des": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using",
+      "category": "Shoe",
+      "photo": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fHByb2R1Y3R8ZW58MHx8MHx8&w=1000&q=80"
+    },
+    {
+      "id": 2,
+      "name": "Fasion Watch",
+      "rate": 80,
+      "des": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using",
+      "category": "watch",
+      "photo": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8cHJvZHVjdHxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    {
+      "id": 3,
+      "name": "Fasion Camara",
+      "rate": 180,
+      "des": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using",
+      "category": "Camara",
+      "photo": "https://images.unsplash.com/photo-1513116476489-7635e79feb27?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDF8fHByb2R1Y3R8ZW58MHx8MHx8&w=1000&q=80"
+    },
+    {
+      "id": 4,
+      "name": "Fasion Laptop",
+      "rate": 580,
+      "des": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using",
+      "category": "Laptop",
+      "photo": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGxhcHRvcHxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    {
+      "id": 5,
+      "name": "Fasion T-sart",
+      "rate": 80,
+      "des": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using",
+      "category": "T-sart",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYywI1t4M8uVu8YGxycxQHb-kcI3sOdF5MXw&usqp=CAU"
+    },
+    {
+      "id": 6,
+      "name": "Fasion Glass",
+      "rate": 20,
+      "des": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using",
+      "category": "sunglass",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxvDd1pPqUWcnsY7Y8rETqCFyL44C3DQZC-Q&usqp=CAU"
+    },
+    {
+      "id": 7,
+      "name": "Fasion Headphone",
+      "rate": 50,
+      "des": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using",
+      "category": "headphone",
+      "photo": "https://www.ant-pc.com/workstation/assets/gaming-accessories-featured/1578554427.png"
+    },
+    {
+      "id": 8,
+      "name": "Fasion Backpack",
+      "rate": 100,
+      "des": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using",
+      "category": "backpack",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJGNhkfCGY0kbE0eUM5lmDdMh7RClT8IOkqg&usqp=CAU"
+    },
+    {
+      "id": 9,
+      "name": "Fasion Monetor",
+      "rate": 120,
+      "des": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using",
+      "category": "monetor",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMC_les0juJzBSTnyOhXcOfidlOjXcgc8JKIfiXmVNHA-VLdzxjxsf6SjCusYpg1xWhB4&usqp=CAU"
+    },
+    {
+      "id": 10,
+      "name": "Fasion iphone",
+      "rate": 800,
+      "des": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using",
+      "category": "iphone",
+      "photo": "https://images.news18.com/ibnlive/uploads/2020/11/1605599011_apple-iphone-12-pro-max.png?impolicy=website&width=510&height=356"
+    },
+    {
+      "id": 11,
+      "name": "Fasion Votka",
+      "rate": 800,
+      "des": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using",
+      "category": "votka",
+      "photo": "http://static1.squarespace.com/static/5d3bbeed88969e0001cf9b6e/5d48d707b87e04000193fbab/5ed788d83b8e990ffc2ff659/1638399842468/Hemp-Gin-Australia-Market-Bundle-small.jpeg?format=1500w"
+    },
+    {
+      "id": 12,
+      "name": "Fasion Votka",
+      "rate": 200,
+      "des": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using",
+      "category": "votka",
+      "photo": "http://static1.squarespace.com/static/5d3bbeed88969e0001cf9b6e/5d48d707b87e04000193fbab/5ed788d83b8e990ffc2ff659/1638399842468/Hemp-Gin-Australia-Market-Bundle-small.jpeg?format=1500w"
+    }
+  ]
+}
